@@ -1,0 +1,45 @@
+ 2 git --version                                                                                                     
+   3 git init                                                                                                          
+   4 ls -a                                                                                                             
+   5 ls                                                                                                                
+   6 clear                                                                                                             
+   7 git status                                                                                                        
+   8 dir                                                                                                               
+   9 git status                                                                                                        
+  10 ls                                                                                                                
+  11 ls -a                                                                                                             
+  12 Get-Children                                                                                                      
+  13 clear                                                                                                             
+  14 git status                                                                                                        
+  15 git add testing.py                                                                                                
+  16 git status                                                                                                        
+  17 git rm --cached testing.py                                                                                        
+  18 git status                                                                                                        
+  19 git commit -m "added test files"                                                                                  
+  20 git add testing.py                                                                                                
+  21 git commit -m "added test files"                                                                                  
+  22 git status                                                                                                        
+  23 rm testing.py                                                                                                     
+  24 ls                                                                                                                
+  25 git status                                                                                                        
+  26 git restore testing.py                                                                                            
+  27 git status                                                                                                        
+  28 history                                                                                                           
+  29 git status                                                                                                        
+  30 git add .\git_commands.txt                                                                                        
+  31 git status                                                                                                        
+  32 git commit -m "added the command file"                                                                            
+  33 git status                                                                                                        
+  34 git add .\git_commands.txt                                                                                        
+  35 git commit -m "git commands"                                                                                      
+  36 git status                                                                                                        
+  37 ls                                                                                                                
+  38 git remote add origin https://github.com/mayankkolwal0/github-for-devops-workshop.git                             
+  39 git remove -v                                                                                                     
+  40 git remote -v                                                                                                     
+  41 clear                                                                                                             
+  42 git remote -v                                                                                                     
+  43  git remote set-url origin https://*********@github.com/mayankkolwal0/github-for...
+  44 git remove -v                                                                                                     
+  45 git remote -v                                                                                                     
+  46 git push origin master 
