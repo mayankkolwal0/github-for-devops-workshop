@@ -16,3 +16,5 @@ push using pat -- git push https://YOUR_USERNAME:YOUR_PAT@github.com/YOUR_USERNA
 
 clone vs fork
 git clone <URL>
+
+git push origin master
