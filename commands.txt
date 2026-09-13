@@ -5,3 +5,14 @@ git add .
 git commit -m <message> <filename>
 git restore --staged <filename>
 git restore <filename>
+
+git remote add origin <URL>
+git remote -v 
+master vs main
+
+set the remove url -- git remote set-url origin https://github.com/mayankkolwal0/github-for-devops-workshop.git
+push using pat -- git push https://YOUR_USERNAME:YOUR_PAT@github.com/YOUR_USERNAME/YOUR_REPO.git master
+
+
+clone vs fork
+git clone <URL>
